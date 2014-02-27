@@ -1,7 +1,9 @@
 readurl
 =======
 
-valuable  url
+valuable  url   
+
+[jquery参考](http://www.w3school.com.cn/jquery/index.asp)   
 [第一篇](http://www.blogjava.net/fancydeepin/archive/2012/06/10/380521.html)   
 [第二篇](http://z466459262.iteye.com/blog/714554)   
 [第三篇](http://blog.csdn.net/yanmei_yao/article/details/7596163)   
